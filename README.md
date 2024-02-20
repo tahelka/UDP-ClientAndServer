@@ -23,19 +23,19 @@ This project demonstrates the implementation of a UDP (User Datagram Protocol) c
 
 ## Usage
 
-### UDP Client
-
-1. **Compile**: Compile the client code (`client.cpp`) using a C++ compiler.
-2. **Run**: Run the compiled executable.
-3. **Interaction**: Choose options from the menu to send requests to the server and receive responses.
-4. **Exit**: Select the exit option to terminate the client.
-
 ### UDP Server
 
-1. **Compile**: Compile the server code (`server.cpp`) using a C++ compiler.
+1. **Compile**: Compile the server code (`server.sln`) using a C++ compiler.
 2. **Run**: Run the compiled executable.
 3. **Server Startup**: The server will start listening for incoming requests on a specified port.
 4. **Client Requests**: Process incoming requests from clients and generate appropriate responses.
+
+### UDP Client
+
+1. **Compile**: Compile the client code (`client.sln`) using a C++ compiler.
+2. **Run**: Run the compiled executable.
+3. **Interaction**: Choose options from the menu to send requests to the server and receive responses.
+4. **Exit**: Select the exit option to terminate the client.
 
 ## Dependencies
 
